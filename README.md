@@ -64,6 +64,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [django-disqus](backend/modules)
 - [react-native-maps](modules/maps)
 - [django-ocr](backend/modules)
+- [react-native-onboarding](modules/onboarding)
 
 # Getting started: Frontend
 
