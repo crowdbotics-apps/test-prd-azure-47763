@@ -20,6 +20,7 @@
     "@modules/onboarding": "file:./modules/onboarding/",
     "@modules/privacy-policy-webview": "file:./modules/privacy-policy-webview/",
     "@modules/qr-code": "file:./modules/qr-code/",
+    "@modules/social-login": "file:./modules/social-login/",
     "@react-native-camera-roll/camera-roll": "5.0.2",
     "@react-native-masked-view/masked-view": "^0.2.9",
     "@react-navigation/native": "^6.1.6",

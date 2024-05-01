@@ -68,6 +68,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [react-native-privacy-policy-webview](modules/privacy-policy-webview)
 - [django-openai](backend/modules)
 - [react-native-image-gallery](modules/image-gallery)
+- [react-native-social-login](modules/social-login)
 
 # Getting started: Frontend
 
